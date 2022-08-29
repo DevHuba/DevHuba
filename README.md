@@ -4,7 +4,6 @@
 
 - 👋 Hi, I’m @DevHuba
 - 👀 I’m interested in Mobile development.
-- 🌱 I’m currently learning Kotlin and KMM.
 - 💞️ I’m looking to collaborate on cool projects as mobile developer.
 - 📫 How to reach me - asagalajev92@gmail.com
 
