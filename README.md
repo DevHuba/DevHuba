@@ -3,8 +3,8 @@
 
 
 - 👋 Hi, I’m @DevHuba
-- 👀 I’m interested in Mobile development.
-- 💞️ I’m looking to collaborate on cool projects as mobile developer.
+- 👀 I’m interested in Web development.
+- 💞️ I’m looking to collaborate on cool projects as web developer.
 - 📫 How to reach me - asagalajev92@gmail.com
 
 <!---
