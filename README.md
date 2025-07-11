@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @DevHuba
 - 👀 I’m interested in development.
 - 💞️ I’m looking to collaborate on cool projects as developer.
-- 📫 How to reach me - asagalajev92@gmail.com
+- 📫 How to reach me - al.sagalajev@gmail.com
 
 <!---
 DevHuba/DevHuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
